@@ -53,8 +53,4 @@ Special thanks to the open-source community for providing various resources and 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any bug fixes or feature enhancements.
 
-## Contact
-If you have any questions or feedback, feel free to reach out:
 
-- **GitHub**: [AakashYd](https://github.com/AakashYd)
-- **Email**: ay9878169@gmail.com
